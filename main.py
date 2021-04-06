@@ -1,7 +1,7 @@
 def main()
-    print("Hello world!")
-    return 0
+=======
+  print ("hello world!")
+  return 0
 
-
-if __name__=='__main__':
-    main()
+if __name__== '__main__':
+  main()
